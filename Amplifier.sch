@@ -1,9 +1,10 @@
-EESchema Schematic File Version 2  date Sat 02 Feb 2013 07:59:25 PM EST
+EESchema Schematic File Version 2  date Sat 02 Feb 2013 08:25:19 PM EST
 LIBS:power
 LIBS:device
 LIBS:conn
 LIBS:Amplifier-Components
-EELAYER 43  0
+LIBS:Amplifier-cache
+EELAYER 24  0
 EELAYER END
 $Descr A4 11700 8267
 Sheet 1 1
@@ -504,10 +505,10 @@ F 1 "0.1uF" H 5450 2100 50  0000 L CNN
 $EndComp
 NoConn ~ 5750 2900
 $Comp
-L TDA7283 U?
+L TDA7283 U1
 U 1 1 510D5DA2
 P 5750 3800
-F 0 "U?" H 5750 4000 60  0000 C CNN
+F 0 "U1" H 5750 4000 60  0000 C CNN
 F 1 "TDA7283" H 5750 3750 60  0000 C CNN
 	1    5750 3800
 	1    0    0    -1  
