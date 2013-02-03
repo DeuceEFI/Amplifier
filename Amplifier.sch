@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Sat 02 Feb 2013 08:25:19 PM EST
+EESchema Schematic File Version 2  date Sat 02 Feb 2013 08:26:09 PM EST
 LIBS:power
 LIBS:device
 LIBS:conn
@@ -12,7 +12,7 @@ Title "ST Microelectronics TDA7293 Amplifier"
 Date "3 feb 2013"
 Rev "0.1-alpha"
 Comp "Drawn by: Andy Goss"
-Comment1 "git hash: 67c414a9ad"
+Comment1 "git hash: 36c6a7f951"
 Comment2 ""
 Comment3 ""
 Comment4 ""

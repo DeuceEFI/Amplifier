@@ -1,6 +1,6 @@
-update=Sat 02 Feb 2013 08:03:37 PM EST
+update=Sat 02 Feb 2013 08:26:35 PM EST
 version=1
-last_client=eeschema
+last_client=kicad
 [cvpcb]
 version=1
 NetITyp=0
@@ -77,8 +77,6 @@ LibName7=display
 LibName8=valves
 LibName9=led
 LibName10=dip_sockets
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -119,3 +117,5 @@ LibName1=power
 LibName2=device
 LibName3=conn
 LibName4=Amplifier-Components
+[general]
+version=1
