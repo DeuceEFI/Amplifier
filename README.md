@@ -37,5 +37,5 @@ I will update this status as work progresses.
 
 ### Changes
 
-Please send any changes that you make to Cruiser back upstream to Andy Goss' copy at https://github.com/DeuceEFI/Amplifier
+Please send any changes that you make to the Amplifier back upstream to Andy Goss' copy at https://github.com/DeuceEFI/Amplifier
 
