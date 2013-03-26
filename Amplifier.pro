@@ -1,16 +1,6 @@
-update=Sat 02 Feb 2013 08:26:35 PM EST
+update=Tue 26 Mar 2013 11:03:56 AM EDT
 version=1
-last_client=kicad
-[cvpcb]
-version=1
-NetITyp=0
-NetIExt=.net
-PkgIExt=.pkg
-NetDir=
-LibDir=
-NetType=0
-[cvpcb/libraries]
-EquName1=devcms
+last_client=cvpcb
 [pcbnew]
 version=1
 PadDrlX=320
@@ -66,17 +56,13 @@ MaxLnkS=3
 ShowRat=0
 ShowMRa=1
 [pcbnew/libraries]
+LibName1=connect
+LibName2=discret
+LibName3=pin_array
+LibName4=libcms
+LibName5=led
+LibName6=capacitors
 LibDir=
-LibName1=sockets
-LibName2=connect
-LibName3=discret
-LibName4=pin_array
-LibName5=divers
-LibName6=libcms
-LibName7=display
-LibName8=valves
-LibName9=led
-LibName10=dip_sockets
 [eeschema]
 version=1
 LibDir=
@@ -119,3 +105,8 @@ LibName3=conn
 LibName4=Amplifier-Components
 [general]
 version=1
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
