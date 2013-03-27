@@ -1,10 +1,12 @@
 # To Do List
 
-## JAG 02/02/2013 2054 EST (GMT-0500)
+## JAG 03/27/2013 1046 EDT (GMT-0400)
 
-### Things left to change For Amplifer Schematics before the design of the PCB is performed:
+### Tasks to left to do:
 
 * Make sure schematic is correct.
+* Create footprints for amplifier IC and custom inductors.
+* Layout PCB.
 
 ----------
 

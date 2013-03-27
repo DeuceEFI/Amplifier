@@ -1,0 +1,241 @@
+Cmp-Mod V01 Created by CvPCB (2010-03-14)-final date = Tue 26 Mar 2013 11:04:34 AM EDT
+
+BeginCmp
+TimeStamp = /510DAE91;
+Reference = +Vs1;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DAECB;
+Reference = -Vs1;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DA972;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DA895;
+Reference = C2;
+ValeurCmp = 100uF;
+IdModule  = CP_8x13mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DAB8A;
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = CP_5x6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DAB6A;
+Reference = C4;
+ValeurCmp = 10uF;
+IdModule  = CP_5x6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DA5C8;
+Reference = C5;
+ValeurCmp = 100uF;
+IdModule  = CP_8x13mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DA54D;
+Reference = C6;
+ValeurCmp = 1000uF;
+IdModule  = CP_16x25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DA51F;
+Reference = C7;
+ValeurCmp = 0.1uF;
+IdModule  = cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DAA5D;
+Reference = C8;
+ValeurCmp = 1000uF;
+IdModule  = CP_16x25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DAAA5;
+Reference = C9;
+ValeurCmp = 0.1uF;
+IdModule  = cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DAD1D;
+Reference = C10;
+ValeurCmp = 1uF;
+IdModule  = cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = /51100673;
+Reference = C11;
+ValeurCmp = 0.01uF;
+IdModule  = cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = /51100728;
+Reference = C12;
+ValeurCmp = 0.01uF;
+IdModule  = cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = /5110062E;
+Reference = C13;
+ValeurCmp = 0.22uF;
+IdModule  = cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = /51100752;
+Reference = C14;
+ValeurCmp = 0.22uF;
+IdModule  = cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = /511007F9;
+Reference = C15;
+ValeurCmp = 1uF;
+IdModule  = cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = /511007D7;
+Reference = C16;
+ValeurCmp = 1uF;
+IdModule  = cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DAC38;
+Reference = D1;
+ValeurCmp = 1N4007;
+IdModule  = D4;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DA9E7;
+Reference = GROUND1;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DA9CA;
+Reference = INPUT1;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DACEA;
+Reference = L1;
+ValeurCmp = INDUCTOR;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DAC76;
+Reference = MUTE/ST-BY1;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DA95D;
+Reference = R1;
+ValeurCmp = 22k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DA86F;
+Reference = R2;
+ValeurCmp = 680;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DA803;
+Reference = R3;
+ValeurCmp = 22k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DABF8;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DABEE;
+Reference = R5;
+ValeurCmp = 30k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DAC01;
+Reference = R6;
+ValeurCmp = 20k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DAD09;
+Reference = R7;
+ValeurCmp = R;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DA833;
+Reference = Speaker+1;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DAD41;
+Reference = Speaker-1;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+BeginCmp
+TimeStamp = /510D5DA2;
+Reference = U1;
+ValeurCmp = TDA7283;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DA644;
+Reference = VCLIP1;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1;
+EndCmp
+
+EndListe
