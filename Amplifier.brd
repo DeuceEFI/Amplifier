@@ -1,0 +1,125 @@
+PCBNEW-BOARD Version 1 date Sat 01 Jun 2013 03:55:55 PM EDT
+
+# Created by Pcbnew(2010-03-14)-final
+
+$GENERAL
+LayerCount 2
+Ly 1FFF8001
+EnabledLayers 1FFF8001
+Links 0
+NoConn 0
+Di 39350 29508 95689 66949
+Ndraw 6
+Ntrack 0
+Nzone 0
+BoardThickness 630
+Nmodule 0
+Nnets 1
+$EndGENERAL
+
+$SHEETDESCR
+Sheet A4 11700 8267
+Title ""
+Date "1 jun 2013"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndSHEETDESCR
+
+$SETUP
+InternalUnit 0.000100 INCH
+ZoneGridSize 250
+Layers 2
+Layer[0] Back signal
+Layer[15] Front signal
+TrackWidth 80
+TrackClearence 100
+ZoneClearence 200
+TrackMinWidth 80
+DrawSegmWidth 39
+EdgeSegmWidth 39
+ViaSize 350
+ViaDrill 250
+ViaMinSize 350
+ViaMinDrill 200
+MicroViaSize 200
+MicroViaDrill 50
+MicroViasAllowed 0
+MicroViaMinSize 200
+MicroViaMinDrill 50
+TextPcbWidth 4
+TextPcbSize 591 787
+EdgeModWidth 39
+TextModSize 600 600
+TextModWidth 120
+PadSize 950 950
+PadDrill 708
+Pad2MaskClearance 100
+AuxiliaryAxisOrg 0 0
+$EndSETUP
+
+$EQUIPOT
+Na 0 ""
+St ~
+$EndEQUIPOT
+$NCLASS
+Name "Default"
+Desc "This is the default net class."
+Clearance 100
+TrackWidth 80
+ViaDia 350
+ViaDrill 250
+uViaDia 200
+uViaDrill 50
+AddNet ""
+$EndNCLASS
+$DRAWSEGMENT
+Po 0 39370 29528 39370 66929 39
+De 28 0 900 0 0
+$EndDRAWSEGMENT
+$DRAWSEGMENT
+Po 0 95669 29528 39370 29528 39
+De 28 0 900 0 0
+$EndDRAWSEGMENT
+$DRAWSEGMENT
+Po 0 95669 66929 95669 29528 39
+De 28 0 900 0 0
+$EndDRAWSEGMENT
+$DRAWSEGMENT
+Po 0 39370 66929 95669 66929 39
+De 28 0 900 0 0
+$EndDRAWSEGMENT
+$COTATION
+Ge 0 26 0
+Va 37401
+Te "94.999 mm"
+Po 96273 48228 591 787 4 900 1
+Sb 0 95819 66929 95819 29528 39
+Sd 0 95669 29528 96727 29528 39
+Sg 0 95669 66929 96727 66929 39
+S1 0 95819 29528 96049 29971 39
+S2 0 95819 29528 95589 29971 39
+S3 0 95819 66929 96049 66486 39
+S4 0 95819 66929 95589 66486 39
+$EndCOTATION
+$COTATION
+Ge 0 26 0
+Va 56299
+Te "142.999 mm"
+Po 67519 67921 591 787 4 0 1
+Sb 0 39370 67467 95669 67467 39
+Sd 0 95669 66929 95669 68375 39
+Sg 0 39370 66929 39370 68375 39
+S1 0 95669 67467 95226 67697 39
+S2 0 95669 67467 95226 67237 39
+S3 0 39370 67467 39813 67697 39
+S4 0 39370 67467 39813 67237 39
+$EndCOTATION
+$TRACK
+$EndTRACK
+$ZONE
+$EndZONE
+$EndBOARD
