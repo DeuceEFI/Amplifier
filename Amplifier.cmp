@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2010-03-14)-final date = Tue 26 Mar 2013 11:04:34 AM EDT
+Cmp-Mod V01 Created by CvPCB (2010-03-14)-final date = Sat 01 Jun 2013 02:59:40 PM EDT
 
 BeginCmp
 TimeStamp = /510DAE91;
@@ -151,7 +151,7 @@ BeginCmp
 TimeStamp = /510DACEA;
 Reference = L1;
 ValeurCmp = INDUCTOR;
-IdModule  = ;
+IdModule  = Output-Inductor;
 EndCmp
 
 BeginCmp

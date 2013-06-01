@@ -1,4 +1,4 @@
-# EESchema Netlist Version 1.1 created  Tue 26 Mar 2013 11:04:34 AM EDT
+# EESchema Netlist Version 1.1 created  Sat 01 Jun 2013 02:59:40 PM EDT
 (
  ( /510DAE91 PIN_ARRAY_1 +Vs1 CONN_1
   ( 1 N-000001 )
@@ -80,7 +80,7 @@
  ( /510DA9CA PIN_ARRAY_1 INPUT1 CONN_1
   ( 1 N-000017 )
  )
- ( /510DACEA $noname$ L1 INDUCTOR
+ ( /510DACEA Output-Inductor L1 INDUCTOR
   ( 1 N-000003 )
   ( 2 N-000008 )
  )

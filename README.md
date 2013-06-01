@@ -1,6 +1,6 @@
 # ST Microelectronics TDA7293V Audio Amplifier
 
-JAG 02/02/2013 2047 EST (GMT-0500)
+JAG 06/01/2013 1525 EDT (GMT-0400)
 
 ### Introduction
 
@@ -27,6 +27,10 @@ Method:
  * Utilise clip detection feature to drive LED on front panel per channel (20mA, make it obvious) 
 
 Currently we are working on the schematics so no PCB file exists at this time.
+
+### KiCAD modules
+
+Copy the Amplifier.mod file to your KiCAD module directory, typically /usr/share/kicad/modules
  
 ### Status
 

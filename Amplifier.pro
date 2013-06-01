@@ -1,4 +1,4 @@
-update=Tue 26 Mar 2013 11:03:56 AM EDT
+update=Sat 01 Jun 2013 02:59:24 PM EDT
 version=1
 last_client=cvpcb
 [pcbnew]
@@ -62,6 +62,7 @@ LibName3=pin_array
 LibName4=libcms
 LibName5=led
 LibName6=capacitors
+LibName7=Amplifier
 LibDir=
 [eeschema]
 version=1
