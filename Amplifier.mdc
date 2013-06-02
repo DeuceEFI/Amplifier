@@ -1,3 +1,9 @@
-PCBNEW-LibDoc----V1  Sat 01 Jun 2013 10:57:24 PM EDT
+PCBNEW-LibDoc----V1  Sun 02 Jun 2013 10:33:28 AM EDT
+#
+$MODULE PIN
+Li PIN
+Cd Single Pin
+Kw DEV
+$EndMODULE
 #
 $EndLIBDOC
