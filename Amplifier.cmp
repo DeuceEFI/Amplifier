@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2010-03-14)-final date = Sun 02 Jun 2013 12:36:07 PM EDT
+Cmp-Mod V01 Created by CvPCB (2010-03-14)-final date = Sun 02 Jun 2013 07:14:16 PM EDT
 
 BeginCmp
 TimeStamp = /510DAE91;
@@ -18,7 +18,7 @@ BeginCmp
 TimeStamp = /510DA972;
 Reference = C1;
 ValeurCmp = 1uF;
-IdModule  = CNP_6mm_disc;
+IdModule  = CNP_4.5mmX7.2mm;
 EndCmp
 
 BeginCmp
@@ -116,14 +116,14 @@ BeginCmp
 TimeStamp = /511007F9;
 Reference = C15;
 ValeurCmp = 1uF;
-IdModule  = CNP_6mm_disc;
+IdModule  = CNP_4.5mmX7.2mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /511007D7;
 Reference = C16;
 ValeurCmp = 1uF;
-IdModule  = CNP_6mm_disc;
+IdModule  = CNP_4.5mmX7.2mm;
 EndCmp
 
 BeginCmp
@@ -136,6 +136,13 @@ EndCmp
 BeginCmp
 TimeStamp = /510DA9E7;
 Reference = GROUND1;
+ValeurCmp = CONN_1;
+IdModule  = PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /510DAD41;
+Reference = Ground2;
 ValeurCmp = CONN_1;
 IdModule  = PIN;
 EndCmp
@@ -206,20 +213,13 @@ EndCmp
 BeginCmp
 TimeStamp = /510DAD09;
 Reference = R7;
-ValeurCmp = R;
-IdModule  = R3;
+ValeurCmp = Rz;
+IdModule  = R21;
 EndCmp
 
 BeginCmp
 TimeStamp = /510DA833;
 Reference = Speaker+1;
-ValeurCmp = CONN_1;
-IdModule  = PIN;
-EndCmp
-
-BeginCmp
-TimeStamp = /510DAD41;
-Reference = Speaker-1;
 ValeurCmp = CONN_1;
 IdModule  = PIN;
 EndCmp

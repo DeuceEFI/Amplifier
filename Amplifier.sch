@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Sun 02 Jun 2013 12:35:52 PM EDT
+EESchema Schematic File Version 2  date Sun 02 Jun 2013 07:10:17 PM EDT
 LIBS:power
 LIBS:device
 LIBS:conn
@@ -17,6 +17,8 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+Text Label 2950 3900 0    60   ~ 0
+Ground
 $Comp
 L CP1 C2
 U 1 1 51AB7445
@@ -177,8 +179,6 @@ Connection ~ 1450 4800
 Connection ~ 3600 4250
 Connection ~ 3600 5350
 Wire Wire Line
-	8200 4350 8950 4350
-Wire Wire Line
 	8200 3900 8200 3950
 Wire Wire Line
 	7000 3400 8300 3400
@@ -189,7 +189,6 @@ Connection ~ 8300 3400
 Connection ~ 8200 3900
 Connection ~ 8200 3950
 Connection ~ 8200 4350
-Connection ~ 8950 4350
 Wire Wire Line
 	6600 2000 6600 2100
 Wire Wire Line
@@ -298,13 +297,13 @@ F 1 "CONN_1" H 6500 2455 30  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L CONN_1 Speaker-1
+L CONN_1 Ground2
 U 1 1 510DAD41
-P 9100 4350
-F 0 "Speaker-1" H 9180 4350 40  0000 L CNN
-F 1 "CONN_1" H 9100 4405 30  0001 C CNN
-	1    9100 4350
-	1    0    0    -1  
+P 4900 5500
+F 0 "Ground2" H 4980 5500 40  0000 L CNN
+F 1 "CONN_1" H 4900 5555 30  0001 C CNN
+	1    4900 5500
+	0    1    1    0   
 $EndComp
 $Comp
 L GND #PWR01
@@ -329,7 +328,7 @@ L R R7
 U 1 1 510DAD09
 P 8200 3650
 F 0 "R7" V 8280 3650 50  0000 C CNN
-F 1 "R" V 8200 3650 50  0000 C CNN
+F 1 "Rz" V 8200 3650 50  0000 C CNN
 	1    8200 3650
 	1    0    0    -1  
 $EndComp
