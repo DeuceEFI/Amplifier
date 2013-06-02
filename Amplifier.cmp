@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2010-03-14)-final date = Sat 01 Jun 2013 10:58:03 PM EDT
+Cmp-Mod V01 Created by CvPCB (2010-03-14)-final date = Sun 02 Jun 2013 12:16:42 AM EDT
 
 BeginCmp
 TimeStamp = /510DAE91;
@@ -207,7 +207,7 @@ BeginCmp
 TimeStamp = /510DAD09;
 Reference = R7;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = R3;
 EndCmp
 
 BeginCmp
@@ -227,7 +227,7 @@ EndCmp
 BeginCmp
 TimeStamp = /510D5DA2;
 Reference = U1;
-ValeurCmp = TDA7283;
+ValeurCmp = TDA7293;
 IdModule  = TDA7293V;
 EndCmp
 

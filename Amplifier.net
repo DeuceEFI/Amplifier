@@ -1,4 +1,4 @@
-# EESchema Netlist Version 1.1 created  Sat 01 Jun 2013 10:58:03 PM EDT
+# EESchema Netlist Version 1.1 created  Sun 02 Jun 2013 12:16:42 AM EDT
 (
  ( /510DAE91 PIN_ARRAY_1 +Vs1 CONN_1
   ( 1 N-000001 )
@@ -111,7 +111,7 @@
   ( 1 N-000005 )
   ( 2 N-000015 )
  )
- ( /510DAD09 $noname$ R7 R
+ ( /510DAD09 R3 R7 R
   ( 1 N-000003 )
   ( 2 N-000004 )
  )
@@ -121,7 +121,7 @@
  ( /510DAD41 PIN_ARRAY_1 Speaker-1 CONN_1
   ( 1 GND )
  )
- ( /510D5DA2 TDA7293V U1 TDA7283
+ ( /510D5DA2 TDA7293V U1 TDA7293
   ( 1 GND )
   ( 2 N-000012 )
   ( 3 N-000018 )
