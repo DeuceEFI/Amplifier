@@ -1,17 +1,17 @@
-Cmp-Mod V01 Created by CvPCB (2010-03-14)-final date = Sun 02 Jun 2013 12:16:42 AM EDT
+Cmp-Mod V01 Created by CvPCB (2010-03-14)-final date = Sun 02 Jun 2013 11:32:05 AM EDT
 
 BeginCmp
 TimeStamp = /510DAE91;
 Reference = +Vs1;
 ValeurCmp = CONN_1;
-IdModule  = PIN_ARRAY_1;
+IdModule  = PIN;
 EndCmp
 
 BeginCmp
 TimeStamp = /510DAECB;
 Reference = -Vs1;
 ValeurCmp = CONN_1;
-IdModule  = PIN_ARRAY_1;
+IdModule  = PIN;
 EndCmp
 
 BeginCmp
@@ -25,7 +25,7 @@ BeginCmp
 TimeStamp = /510DA895;
 Reference = C2;
 ValeurCmp = 100uF;
-IdModule  = CP_8x13mm;
+IdModule  = CP_8mmx13mm;
 EndCmp
 
 BeginCmp
@@ -46,7 +46,7 @@ BeginCmp
 TimeStamp = /510DA5C8;
 Reference = C5;
 ValeurCmp = 100uF;
-IdModule  = CP_8x13mm;
+IdModule  = CP_8mmx13mm;
 EndCmp
 
 BeginCmp
@@ -137,14 +137,14 @@ BeginCmp
 TimeStamp = /510DA9E7;
 Reference = GROUND1;
 ValeurCmp = CONN_1;
-IdModule  = PIN_ARRAY_1;
+IdModule  = PIN;
 EndCmp
 
 BeginCmp
 TimeStamp = /510DA9CA;
 Reference = INPUT1;
 ValeurCmp = CONN_1;
-IdModule  = PIN_ARRAY_1;
+IdModule  = PIN;
 EndCmp
 
 BeginCmp
@@ -158,7 +158,7 @@ BeginCmp
 TimeStamp = /510DAC76;
 Reference = MUTE/ST-BY1;
 ValeurCmp = CONN_1;
-IdModule  = PIN_ARRAY_1;
+IdModule  = PIN;
 EndCmp
 
 BeginCmp
@@ -214,14 +214,14 @@ BeginCmp
 TimeStamp = /510DA833;
 Reference = Speaker+1;
 ValeurCmp = CONN_1;
-IdModule  = PIN_ARRAY_1;
+IdModule  = PIN;
 EndCmp
 
 BeginCmp
 TimeStamp = /510DAD41;
 Reference = Speaker-1;
 ValeurCmp = CONN_1;
-IdModule  = PIN_ARRAY_1;
+IdModule  = PIN;
 EndCmp
 
 BeginCmp
@@ -235,7 +235,7 @@ BeginCmp
 TimeStamp = /510DA644;
 Reference = VCLIP1;
 ValeurCmp = CONN_1;
-IdModule  = PIN_ARRAY_1;
+IdModule  = PIN;
 EndCmp
 
 EndListe

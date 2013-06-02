@@ -1,4 +1,4 @@
-update=Sat 01 Jun 2013 02:59:24 PM EDT
+update=Sun 02 Jun 2013 11:19:54 AM EDT
 version=1
 last_client=cvpcb
 [pcbnew]
@@ -57,12 +57,11 @@ ShowRat=0
 ShowMRa=1
 [pcbnew/libraries]
 LibName1=connect
-LibName2=discret
-LibName3=pin_array
-LibName4=libcms
-LibName5=led
-LibName6=capacitors
-LibName7=Amplifier
+LibName2=pin_array
+LibName3=libcms
+LibName4=led
+LibName5=capacitors
+LibName6=Amplifier
 LibDir=
 [eeschema]
 version=1

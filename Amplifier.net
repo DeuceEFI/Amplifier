@@ -1,16 +1,16 @@
-# EESchema Netlist Version 1.1 created  Sun 02 Jun 2013 12:16:42 AM EDT
+# EESchema Netlist Version 1.1 created  Sun 02 Jun 2013 11:32:05 AM EDT
 (
- ( /510DAE91 PIN_ARRAY_1 +Vs1 CONN_1
+ ( /510DAE91 PIN +Vs1 CONN_1
   ( 1 N-000001 )
  )
- ( /510DAECB PIN_ARRAY_1 -Vs1 CONN_1
+ ( /510DAECB PIN -Vs1 CONN_1
   ( 1 N-000007 )
  )
  ( /510DA972 cnp_6mm_disc C1 1uF
   ( 1 N-000018 )
   ( 2 N-000017 )
  )
- ( /510DA895 CP_8x13mm C2 100uF
+ ( /510DA895 CP_8mmx13mm C2 100uF
   ( 1 GND )
   ( 2 N-000016 )
  )
@@ -22,7 +22,7 @@
   ( 1 N-000015 )
   ( 2 GND )
  )
- ( /510DA5C8 CP_8x13mm C5 100uF
+ ( /510DA5C8 CP_8mmx13mm C5 100uF
   ( 1 N-000010 )
   ( 2 N-000013 )
  )
@@ -74,17 +74,17 @@
   ( 1 N-000014 )
   ( 2 N-000006 )
  )
- ( /510DA9E7 PIN_ARRAY_1 GROUND1 CONN_1
+ ( /510DA9E7 PIN GROUND1 CONN_1
   ( 1 GND )
  )
- ( /510DA9CA PIN_ARRAY_1 INPUT1 CONN_1
+ ( /510DA9CA PIN INPUT1 CONN_1
   ( 1 N-000017 )
  )
  ( /510DACEA Output-Inductor L1 INDUCTOR
   ( 1 N-000003 )
   ( 2 N-000008 )
  )
- ( /510DAC76 PIN_ARRAY_1 MUTE/ST-BY1 CONN_1
+ ( /510DAC76 PIN MUTE/ST-BY1 CONN_1
   ( 1 N-000005 )
  )
  ( /510DA95D R3 R1 22k
@@ -115,10 +115,10 @@
   ( 1 N-000003 )
   ( 2 N-000004 )
  )
- ( /510DA833 PIN_ARRAY_1 Speaker+1 CONN_1
+ ( /510DA833 PIN Speaker+1 CONN_1
   ( 1 N-000008 )
  )
- ( /510DAD41 PIN_ARRAY_1 Speaker-1 CONN_1
+ ( /510DAD41 PIN Speaker-1 CONN_1
   ( 1 GND )
  )
  ( /510D5DA2 TDA7293V U1 TDA7293
@@ -138,7 +138,7 @@
   ( 14 N-000003 )
   ( 15 N-000007 )
  )
- ( /510DA644 PIN_ARRAY_1 VCLIP1 CONN_1
+ ( /510DA644 PIN VCLIP1 CONN_1
   ( 1 N-000009 )
  )
 )

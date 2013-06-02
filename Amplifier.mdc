@@ -1,9 +1,20 @@
-PCBNEW-LibDoc----V1  Sun 02 Jun 2013 10:48:39 AM EDT
+PCBNEW-LibDoc----V1  Sun 02 Jun 2013 11:34:39 AM EDT
 #
 $MODULE PIN
 Li PIN
 Cd Single Pin
 Kw DEV
+$EndMODULE
+#
+$MODULE R3
+Li R3
+Cd Size 3 Resistor
+Kw R
+$EndMODULE
+#
+$MODULE CP_8mmx13mm
+Li CP_8mmx13mm
+Cd Capacitor, polarized, cyl 8mm x 13mm
 $EndMODULE
 #
 $EndLIBDOC
