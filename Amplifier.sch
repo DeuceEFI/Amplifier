@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Sun 02 Jun 2013 12:15:59 AM EDT
+EESchema Schematic File Version 2  date Sun 02 Jun 2013 12:35:52 PM EDT
 LIBS:power
 LIBS:device
 LIBS:conn
@@ -17,6 +17,15 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Comp
+L CP1 C2
+U 1 1 51AB7445
+P 4000 2950
+F 0 "C2" H 3850 2850 50  0000 L CNN
+F 1 "100uF" H 4050 3050 50  0000 L CNN
+	1    4000 2950
+	-1   0    0    1   
+$EndComp
 Connection ~ 4800 2400
 Connection ~ 4800 2000
 Connection ~ 5250 2000
@@ -511,15 +520,6 @@ P 3750 2850
 F 0 "#PWR08" H 3750 2850 30  0001 C CNN
 F 1 "GND" H 3750 2780 30  0001 C CNN
 	1    3750 2850
-	1    0    0    -1  
-$EndComp
-$Comp
-L C C2
-U 1 1 510DA895
-P 4000 2950
-F 0 "C2" H 4050 3050 50  0000 L CNN
-F 1 "100uF" H 4050 2850 50  0000 L CNN
-	1    4000 2950
 	1    0    0    -1  
 $EndComp
 $Comp

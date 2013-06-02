@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2010-03-14)-final date = Sun 02 Jun 2013 11:32:05 AM EDT
+Cmp-Mod V01 Created by CvPCB (2010-03-14)-final date = Sun 02 Jun 2013 12:36:07 PM EDT
 
 BeginCmp
 TimeStamp = /510DAE91;
@@ -18,11 +18,11 @@ BeginCmp
 TimeStamp = /510DA972;
 Reference = C1;
 ValeurCmp = 1uF;
-IdModule  = cnp_6mm_disc;
+IdModule  = CNP_6mm_disc;
 EndCmp
 
 BeginCmp
-TimeStamp = /510DA895;
+TimeStamp = /51AB7445;
 Reference = C2;
 ValeurCmp = 100uF;
 IdModule  = CP_8mmx13mm;
@@ -32,14 +32,14 @@ BeginCmp
 TimeStamp = /510DAB8A;
 Reference = C3;
 ValeurCmp = 10uF;
-IdModule  = CP_5x6mm;
+IdModule  = CP_5mmx6mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /510DAB6A;
 Reference = C4;
 ValeurCmp = 10uF;
-IdModule  = CP_5x6mm;
+IdModule  = CP_5mmx6mm;
 EndCmp
 
 BeginCmp
@@ -53,77 +53,77 @@ BeginCmp
 TimeStamp = /510DA54D;
 Reference = C6;
 ValeurCmp = 1000uF;
-IdModule  = CP_16x25mm;
+IdModule  = CP_16mmx25mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /510DA51F;
 Reference = C7;
 ValeurCmp = 0.1uF;
-IdModule  = cnp_6mm_disc;
+IdModule  = CNP_6mm_disc;
 EndCmp
 
 BeginCmp
 TimeStamp = /510DAA5D;
 Reference = C8;
 ValeurCmp = 1000uF;
-IdModule  = CP_16x25mm;
+IdModule  = CP_16mmx25mm;
 EndCmp
 
 BeginCmp
 TimeStamp = /510DAAA5;
 Reference = C9;
 ValeurCmp = 0.1uF;
-IdModule  = cnp_6mm_disc;
+IdModule  = CNP_6mm_disc;
 EndCmp
 
 BeginCmp
 TimeStamp = /510DAD1D;
 Reference = C10;
 ValeurCmp = 1uF;
-IdModule  = cnp_6mm_disc;
+IdModule  = CNP_6mm_disc;
 EndCmp
 
 BeginCmp
 TimeStamp = /51100673;
 Reference = C11;
 ValeurCmp = 0.01uF;
-IdModule  = cnp_6mm_disc;
+IdModule  = CNP_6mm_disc;
 EndCmp
 
 BeginCmp
 TimeStamp = /51100728;
 Reference = C12;
 ValeurCmp = 0.01uF;
-IdModule  = cnp_6mm_disc;
+IdModule  = CNP_6mm_disc;
 EndCmp
 
 BeginCmp
 TimeStamp = /5110062E;
 Reference = C13;
 ValeurCmp = 0.22uF;
-IdModule  = cnp_6mm_disc;
+IdModule  = CNP_6mm_disc;
 EndCmp
 
 BeginCmp
 TimeStamp = /51100752;
 Reference = C14;
 ValeurCmp = 0.22uF;
-IdModule  = cnp_6mm_disc;
+IdModule  = CNP_6mm_disc;
 EndCmp
 
 BeginCmp
 TimeStamp = /511007F9;
 Reference = C15;
 ValeurCmp = 1uF;
-IdModule  = cnp_6mm_disc;
+IdModule  = CNP_6mm_disc;
 EndCmp
 
 BeginCmp
 TimeStamp = /511007D7;
 Reference = C16;
 ValeurCmp = 1uF;
-IdModule  = cnp_6mm_disc;
+IdModule  = CNP_6mm_disc;
 EndCmp
 
 BeginCmp

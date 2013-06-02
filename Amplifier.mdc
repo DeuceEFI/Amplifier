@@ -1,9 +1,25 @@
-PCBNEW-LibDoc----V1  Sun 02 Jun 2013 11:34:39 AM EDT
+PCBNEW-LibDoc----V1  Sun 02 Jun 2013 12:31:26 PM EDT
+#
+$MODULE CNP_6mm_disc
+Li CNP_6mm_disc
+Cd 6mm disc ceramic capacitor
+Kw C
+$EndMODULE
+#
+$MODULE CP_16x25mm
+Li CP_16x25mm
+Cd Capacitor, polarized, cyl 16mm x 25mm
+$EndMODULE
 #
 $MODULE PIN
 Li PIN
 Cd Single Pin
 Kw DEV
+$EndMODULE
+#
+$MODULE CP_8mmx13mm
+Li CP_8mmx13mm
+Cd Capacitor, polarized, cyl 8mm x 13mm
 $EndMODULE
 #
 $MODULE R3
@@ -12,9 +28,9 @@ Cd Size 3 Resistor
 Kw R
 $EndMODULE
 #
-$MODULE CP_8mmx13mm
-Li CP_8mmx13mm
-Cd Capacitor, polarized, cyl 8mm x 13mm
+$MODULE CP_5mmx6mm
+Li CP_5mmx6mm
+Cd Capacitor, polarized, cyl 5mm x 6mm
 $EndMODULE
 #
 $EndLIBDOC

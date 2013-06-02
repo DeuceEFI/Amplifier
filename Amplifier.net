@@ -1,4 +1,4 @@
-# EESchema Netlist Version 1.1 created  Sun 02 Jun 2013 11:32:05 AM EDT
+# EESchema Netlist Version 1.1 created  Sun 02 Jun 2013 12:36:07 PM EDT
 (
  ( /510DAE91 PIN +Vs1 CONN_1
   ( 1 N-000001 )
@@ -6,19 +6,19 @@
  ( /510DAECB PIN -Vs1 CONN_1
   ( 1 N-000007 )
  )
- ( /510DA972 cnp_6mm_disc C1 1uF
+ ( /510DA972 CNP_6mm_disc C1 1uF
   ( 1 N-000018 )
   ( 2 N-000017 )
  )
- ( /510DA895 CP_8mmx13mm C2 100uF
-  ( 1 GND )
-  ( 2 N-000016 )
+ ( /51AB7445 CP_8mmx13mm C2 100uF
+  ( 1 N-000016 )
+  ( 2 GND )
  )
- ( /510DAB8A CP_5x6mm C3 10uF
+ ( /510DAB8A CP_5mmx6mm C3 10uF
   ( 1 N-000014 )
   ( 2 GND )
  )
- ( /510DAB6A CP_5x6mm C4 10uF
+ ( /510DAB6A CP_5mmx6mm C4 10uF
   ( 1 N-000015 )
   ( 2 GND )
  )
@@ -26,47 +26,47 @@
   ( 1 N-000010 )
   ( 2 N-000013 )
  )
- ( /510DA54D CP_16x25mm C6 1000uF
+ ( /510DA54D CP_16mmx25mm C6 1000uF
   ( 1 N-000001 )
   ( 2 GND )
  )
- ( /510DA51F cnp_6mm_disc C7 0.1uF
+ ( /510DA51F CNP_6mm_disc C7 0.1uF
   ( 1 GND )
   ( 2 N-000001 )
  )
- ( /510DAA5D CP_16x25mm C8 1000uF
+ ( /510DAA5D CP_16mmx25mm C8 1000uF
   ( 1 GND )
   ( 2 N-000007 )
  )
- ( /510DAAA5 cnp_6mm_disc C9 0.1uF
+ ( /510DAAA5 CNP_6mm_disc C9 0.1uF
   ( 1 N-000007 )
   ( 2 GND )
  )
- ( /510DAD1D cnp_6mm_disc C10 1uF
+ ( /510DAD1D CNP_6mm_disc C10 1uF
   ( 1 N-000004 )
   ( 2 GND )
  )
- ( /51100673 cnp_6mm_disc C11 0.01uF
+ ( /51100673 CNP_6mm_disc C11 0.01uF
   ( 1 GND )
   ( 2 N-000001 )
  )
- ( /51100728 cnp_6mm_disc C12 0.01uF
+ ( /51100728 CNP_6mm_disc C12 0.01uF
   ( 1 N-000007 )
   ( 2 GND )
  )
- ( /5110062E cnp_6mm_disc C13 0.22uF
+ ( /5110062E CNP_6mm_disc C13 0.22uF
   ( 1 GND )
   ( 2 N-000001 )
  )
- ( /51100752 cnp_6mm_disc C14 0.22uF
+ ( /51100752 CNP_6mm_disc C14 0.22uF
   ( 1 N-000007 )
   ( 2 GND )
  )
- ( /511007F9 cnp_6mm_disc C15 1uF
+ ( /511007F9 CNP_6mm_disc C15 1uF
   ( 1 N-000018 )
   ( 2 N-000017 )
  )
- ( /511007D7 cnp_6mm_disc C16 1uF
+ ( /511007D7 CNP_6mm_disc C16 1uF
   ( 1 N-000018 )
   ( 2 N-000017 )
  )
@@ -150,9 +150,8 @@ $component C1
  C1-1
 $endlist
 $component C2
+ CP*
  SM*
- C?
- C1-1
 $endlist
 $component C3
  CP*
