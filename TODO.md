@@ -1,10 +1,15 @@
 # To Do List
 
-## JAG 06/02/2013 2109 EDT (GMT-0400)
+## JAG 06/02/2013 2155 EDT (GMT-0400)
 
 ### Tasks to left to do:
 
-* Layout PCB.
+* Move the input to the front of the board rather than the side. 
+* Move the clip input to the front of the board rather than the side.
+* Move the control line to the front of the board rather than the side.
+* Move the Mute/Standby to the front of the board rather than the side.
+* The traces to/from the capacitors and inductor could be much bigger, tapering at the end for IC connection.
+* The ground for the zobel network should be brought out for an independent return to the power supply. That's at the end of C10.
 * Review all parts and layout.
 
 ----------
