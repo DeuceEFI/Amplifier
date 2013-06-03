@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Sun 02 Jun 2013 07:10:17 PM EDT
+EESchema Schematic File Version 2  date Sun 02 Jun 2013 07:50:12 PM EDT
 LIBS:power
 LIBS:device
 LIBS:conn
@@ -17,6 +17,42 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
+$Comp
+L CONN_1 H4
+U 1 1 51ABDA12
+P 9950 5800
+F 0 "H4" H 10030 5800 40  0000 L CNN
+F 1 "CONN_1" H 9950 5855 30  0001 C CNN
+	1    9950 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_1 H3
+U 1 1 51ABDA0C
+P 9950 5600
+F 0 "H3" H 10030 5600 40  0000 L CNN
+F 1 "CONN_1" H 9950 5655 30  0001 C CNN
+	1    9950 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_1 H2
+U 1 1 51ABDA06
+P 9950 5400
+F 0 "H2" H 10030 5400 40  0000 L CNN
+F 1 "CONN_1" H 9950 5455 30  0001 C CNN
+	1    9950 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L CONN_1 H1
+U 1 1 51ABD9FC
+P 9950 5200
+F 0 "H1" H 10030 5200 40  0000 L CNN
+F 1 "CONN_1" H 9950 5255 30  0001 C CNN
+	1    9950 5200
+	1    0    0    -1  
+$EndComp
 Text Label 2950 3900 0    60   ~ 0
 Ground
 $Comp
