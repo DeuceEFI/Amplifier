@@ -1,6 +1,6 @@
 # ST Microelectronics TDA7293V Audio Amplifier
 
-JAG 06/01/2013 1525 EDT (GMT-0400)
+JAG 06/02/2013 2111 EDT (GMT-0400)
 
 ### Introduction
 
@@ -36,6 +36,8 @@ Copy the Amplifier.mod file to your KiCAD module directory, typically /usr/share
 
 This PCB is in active development, please refrain from printing circuit boards and expecting them to work.
 This design is untested and should NOT be considered a usable design.
+
+See TODO.md for the latest status of what needs to be done and what has already been done.
 
 I will update this status as work progresses.
 
